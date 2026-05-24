@@ -43,7 +43,6 @@ My goal is to help businesses make data-driven decisions by identifying trends, 
 
 * Analyzed real-world e-commerce data to identify sales trends and profitability drivers
 * Built dashboards using Power BI and IBM Cognos
-* Performed SQL-based data cleaning and business analysis
 * Identified top-performing products and high-margin categories
 
 ---
@@ -59,7 +58,7 @@ My goal is to help businesses make data-driven decisions by identifying trends, 
 
 ### 📌 Northwind Sales Analysis
 
-* Analyzed customer orders and product performance using SQL
+* Analyzed customer orders and product performance using python
 * Evaluated sales trends across regions and product categories
 * Identified top customers contributing highest revenue
 * Delivered insights for improving sales strategy and customer targeting
