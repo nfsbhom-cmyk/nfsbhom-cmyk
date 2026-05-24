@@ -52,7 +52,7 @@ My goal is to help businesses make data-driven decisions by identifying trends, 
 * Performed exploratory data analysis on retail sales dataset
 * Built interactive dashboards to visualize sales, profit, and regional performance
 * Identified underperforming categories and profit leakage areas
-* Used Excel and Power BI for reporting and visualization
+* Used IBM cognos for reporting and visualization
 
 ---
 
